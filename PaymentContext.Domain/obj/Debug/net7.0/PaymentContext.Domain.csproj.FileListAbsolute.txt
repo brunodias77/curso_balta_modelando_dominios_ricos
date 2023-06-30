@@ -1,0 +1,15 @@
+/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/PaymentContext/PaymentContext.Domain/bin/Debug/net7.0/PaymentContext.Domain.deps.json
+/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/PaymentContext/PaymentContext.Domain/bin/Debug/net7.0/PaymentContext.Domain.dll
+/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/PaymentContext/PaymentContext.Domain/bin/Debug/net7.0/PaymentContext.Domain.pdb
+/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/PaymentContext/PaymentContext.Domain/obj/Debug/net7.0/PaymentContext.Domain.csproj.AssemblyReference.cache
+/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/PaymentContext/PaymentContext.Domain/obj/Debug/net7.0/PaymentContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/PaymentContext/PaymentContext.Domain/obj/Debug/net7.0/PaymentContext.Domain.AssemblyInfoInputs.cache
+/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/PaymentContext/PaymentContext.Domain/obj/Debug/net7.0/PaymentContext.Domain.AssemblyInfo.cs
+/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/PaymentContext/PaymentContext.Domain/obj/Debug/net7.0/PaymentContext.Domain.csproj.CoreCompileInputs.cache
+/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/PaymentContext/PaymentContext.Domain/obj/Debug/net7.0/PaymentContext.Domain.dll
+/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/PaymentContext/PaymentContext.Domain/obj/Debug/net7.0/refint/PaymentContext.Domain.dll
+/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/PaymentContext/PaymentContext.Domain/obj/Debug/net7.0/PaymentContext.Domain.pdb
+/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/PaymentContext/PaymentContext.Domain/obj/Debug/net7.0/ref/PaymentContext.Domain.dll
+/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/PaymentContext/PaymentContext.Domain/bin/Debug/net7.0/PaymentContext.Shared.dll
+/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/PaymentContext/PaymentContext.Domain/bin/Debug/net7.0/PaymentContext.Shared.pdb
+/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/PaymentContext/PaymentContext.Domain/obj/Debug/net7.0/PaymentContext.Domain.csproj.CopyComplete
