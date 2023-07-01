@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MsbnO5ojsVS4Wlvk9Ltng8C8Ue4N29oKyWKliF4VjVCJLv81xMGvCz2muZvNSxun4oTzBFiTS+0v2V+7IHoIfw==",
+  "dgSpecHash": "Dk9C6+X+CPkUwOu6YAwfJPeppIj9X+cDVijCzD+EFSJNMwwv9/aB5JFnPXeICDlfpn36wDpFOsSMnb8XV2+27Q==",
   "success": true,
-  "projectFilePath": "/home/brunodias/Documentos/Programação/C#/curso balta.io/Moodelando Entidades Ricas/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/PaymentContext.Domain.csproj",
+  "projectFilePath": "/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/PaymentContext.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

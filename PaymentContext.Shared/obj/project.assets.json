@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/brunodias/.nuget/packages/": {}
+    "/Users/brunodias/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/brunodias/Documentos/Programação/C#/curso balta.io/Moodelando Entidades Ricas/curso_balta_modelando_dominios_ricos/PaymentContext.Shared/PaymentContext.Shared.csproj",
+      "projectUniqueName": "/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Shared/PaymentContext.Shared.csproj",
       "projectName": "PaymentContext.Shared",
-      "projectPath": "/home/brunodias/Documentos/Programação/C#/curso balta.io/Moodelando Entidades Ricas/curso_balta_modelando_dominios_ricos/PaymentContext.Shared/PaymentContext.Shared.csproj",
-      "packagesPath": "/home/brunodias/.nuget/packages/",
-      "outputPath": "/home/brunodias/Documentos/Programação/C#/curso balta.io/Moodelando Entidades Ricas/curso_balta_modelando_dominios_ricos/PaymentContext.Shared/obj/",
+      "projectPath": "/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Shared/PaymentContext.Shared.csproj",
+      "packagesPath": "/Users/brunodias/.nuget/packages/",
+      "outputPath": "/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Shared/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/brunodias/.nuget/NuGet/NuGet.Config"
+        "/Users/brunodias/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/brunodias/.dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
       }
     }
   }

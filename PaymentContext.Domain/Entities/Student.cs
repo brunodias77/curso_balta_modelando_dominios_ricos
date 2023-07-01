@@ -1,6 +1,6 @@
 namespace PaymentContext.Domain.Entities
 {
-  public class Studente 
+  public class Student
   {
     public string FirstName { get; set; }
     public string LastName { get; set; }
