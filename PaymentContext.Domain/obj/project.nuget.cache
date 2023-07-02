@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Dk9C6+X+CPkUwOu6YAwfJPeppIj9X+cDVijCzD+EFSJNMwwv9/aB5JFnPXeICDlfpn36wDpFOsSMnb8XV2+27Q==",
+  "dgSpecHash": "Cz0oO95zb/u9vFjD+QFYcEi89LGBsFI/B36quj66mVDIMFM1v8vcc9Ylcmj5jms1eIu40Sg2xhwiQ5s4qJsDXQ==",
   "success": true,
   "projectFilePath": "/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/PaymentContext.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/brunodias/.nuget/packages/flunt/2.0.5/flunt.2.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

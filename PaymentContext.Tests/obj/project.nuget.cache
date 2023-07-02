@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "7IoCUW1LLCWonpEJPGNmzNtdsyzEmtFNlJ+UEHIpZLvbFQTbKuYOrjNfGNxSd7IX3v8SlmGn1ZvYhTM1TWQ0dA==",
+  "dgSpecHash": "xFJjQKjb43lhI0Hw8+qxriLIfvBwwAXgbMDH4KiOzsj4qpe7hakw7L9jX9mjFsE4aCdlvj3FdIhWoGAQkdW0ag==",
   "success": true,
   "projectFilePath": "/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Tests/PaymentContext.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/brunodias/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
+    "/Users/brunodias/.nuget/packages/flunt/2.0.5/flunt.2.0.5.nupkg.sha512",
     "/Users/brunodias/.nuget/packages/microsoft.codecoverage/17.5.0/microsoft.codecoverage.17.5.0.nupkg.sha512",
     "/Users/brunodias/.nuget/packages/microsoft.net.test.sdk/17.5.0/microsoft.net.test.sdk.17.5.0.nupkg.sha512",
     "/Users/brunodias/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
