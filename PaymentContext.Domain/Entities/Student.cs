@@ -5,7 +5,7 @@ using PaymentContext.Shared.Entities;
 namespace PaymentContext.Domain.Entities
 {
   public class Student : Entity
-    {
+  {
     private IList<Subscription> _subscriptions;
 
     public Student(Name name, Document document, Email email)
