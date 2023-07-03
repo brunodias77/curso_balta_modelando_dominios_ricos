@@ -22,4 +22,10 @@
     <ProjectReference Include="..\PaymentContext.Domain\PaymentContext.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="ValueObjects\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ValueObjects\" />
+  </ItemGroup>
 </Project>
