@@ -15,8 +15,8 @@ namespace PaymentContext.Domain.ValueObjects
 
             AddNotifications(new Contract<Name>()
                 .Requires()
-                .IsLowerThan(firstName, 3, "Name.FirstName", "Nome deve conter pelo menos 3 caracteres")
-                .IsLowerThan(lastName, 3, "Name.LastName", "Nome deve conter pelo menos 3 caracteres")
+                .IsLowerThan(FirstName, 3, "Name.FirstName", "Nome deve conter pelo menos 3 caracteres")
+                .IsLowerThan(LastName, 3, "Name.LastName", "Nome deve conter pelo menos 3 caracteres")
                 .IsGreaterThan(FirstName, 40, "Name.FirstName", "Nome deve conter até 40 caracteres")
             );
         }

@@ -1,4 +1,4 @@
-// using Flunt.Validations;
+using Flunt.Validations;
 using PaymentContext.Domain.Enums;
 using PaymentContext.Shared.ValueObjects;
 // using PaymentContext.Shared.ValueObjects;
@@ -12,24 +12,24 @@ namespace PaymentContext.Domain.ValueObjects
             Number = number;
             Type = type;
 
-            // AddNotifications(new Contract()
-            //     .Requires()
-            //     .IsTrue(Validate(), "Document.Number", "Documento inválido")
-            // );
+            AddNotifications(new Contract<Document>()
+                .Requires()
+                .IsTrue(Validate(), "Document.Number", "Documento inválido")
+            );
         }
 
         public string Number { get; private set; }
         public EDocumentType Type { get; private set; }
 
-        // private bool Validate()
-        // {
-        //     if (Type == EDocumentType.CNPJ && Number.Length == 14)
-        //         return true;
+        private bool Validate()
+        {
+            if (Type == EDocumentType.CNPJ && Number.Length == 14)
+                return true;
 
-        //     if (Type == EDocumentType.CPF && Number.Length == 11)
-        //         return true;
+            if (Type == EDocumentType.CPF && Number.Length == 11)
+                return true;
 
-        //     return false;
-        // }
+            return false;
+        }
     }
 }

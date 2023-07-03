@@ -204,3 +204,4 @@
 /Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Tests/obj/Debug/net7.0/PaymentContext.Tests.csproj.CopyComplete
 /Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Tests/obj/Debug/net7.0/PaymentContext.Tests.genruntimeconfig.cache
 /Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Tests/obj/Debug/net7.0/ref/PaymentContext.Tests.dll
+/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Tests/bin/Debug/net7.0/Flunt.dll

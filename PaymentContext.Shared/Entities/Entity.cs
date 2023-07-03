@@ -1,4 +1,3 @@
-using System;
 using Flunt.Notifications;
 
 namespace PaymentContext.Shared.Entities

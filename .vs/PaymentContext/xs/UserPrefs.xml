@@ -1,0 +1,4 @@
+﻿<Properties StartupConfiguration="{27661E6A-8E3D-4EFC-944A-4661C22EAA09}|Default" GitUserInfo="UsingGIT">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PaymentContext.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
