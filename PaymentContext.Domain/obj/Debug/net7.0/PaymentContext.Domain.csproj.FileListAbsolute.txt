@@ -28,3 +28,18 @@
 /Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/bin/Debug/net7.0/PaymentContext.Shared.pdb
 /Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/obj/Debug/net7.0/PaymentContext.Domain.csproj.CopyComplete
 /Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/obj/Debug/net7.0/ref/PaymentContext.Domain.dll
+/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/bin/Debug/net7.0/PaymentContext.Domain.deps.json
+/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/bin/Debug/net7.0/PaymentContext.Domain.dll
+/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/bin/Debug/net7.0/PaymentContext.Domain.pdb
+/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/bin/Debug/net7.0/PaymentContext.Shared.dll
+/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/bin/Debug/net7.0/PaymentContext.Shared.pdb
+/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/obj/Debug/net7.0/PaymentContext.Domain.csproj.AssemblyReference.cache
+/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/obj/Debug/net7.0/PaymentContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/obj/Debug/net7.0/PaymentContext.Domain.AssemblyInfoInputs.cache
+/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/obj/Debug/net7.0/PaymentContext.Domain.AssemblyInfo.cs
+/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/obj/Debug/net7.0/PaymentContext.Domain.csproj.CoreCompileInputs.cache
+/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/obj/Debug/net7.0/PaymentContext.Domain.csproj.CopyComplete
+/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/obj/Debug/net7.0/PaymentContext.Domain.dll
+/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/obj/Debug/net7.0/refint/PaymentContext.Domain.dll
+/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/obj/Debug/net7.0/PaymentContext.Domain.pdb
+/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/obj/Debug/net7.0/ref/PaymentContext.Domain.dll

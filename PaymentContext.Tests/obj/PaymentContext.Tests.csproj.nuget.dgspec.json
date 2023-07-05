@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Tests/PaymentContext.Tests.csproj": {}
+    "/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Tests/PaymentContext.Tests.csproj": {}
   },
   "projects": {
-    "/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/PaymentContext.Domain.csproj": {
+    "/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/PaymentContext.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/PaymentContext.Domain.csproj",
+        "projectUniqueName": "/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/PaymentContext.Domain.csproj",
         "projectName": "PaymentContext.Domain",
-        "projectPath": "/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/PaymentContext.Domain.csproj",
-        "packagesPath": "/Users/brunodias/.nuget/packages/",
-        "outputPath": "/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/obj/",
+        "projectPath": "/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/PaymentContext.Domain.csproj",
+        "packagesPath": "/home/brunodias/.nuget/packages/",
+        "outputPath": "/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/brunodias/.nuget/NuGet/NuGet.Config"
+          "/home/brunodias/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Shared/PaymentContext.Shared.csproj": {
-                "projectPath": "/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Shared/PaymentContext.Shared.csproj"
+              "/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Shared/PaymentContext.Shared.csproj": {
+                "projectPath": "/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Shared/PaymentContext.Shared.csproj"
               }
             }
           }
@@ -63,21 +63,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Shared/PaymentContext.Shared.csproj": {
+    "/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Shared/PaymentContext.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Shared/PaymentContext.Shared.csproj",
+        "projectUniqueName": "/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Shared/PaymentContext.Shared.csproj",
         "projectName": "PaymentContext.Shared",
-        "projectPath": "/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Shared/PaymentContext.Shared.csproj",
-        "packagesPath": "/Users/brunodias/.nuget/packages/",
-        "outputPath": "/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Shared/obj/",
+        "projectPath": "/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Shared/PaymentContext.Shared.csproj",
+        "packagesPath": "/home/brunodias/.nuget/packages/",
+        "outputPath": "/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/brunodias/.nuget/NuGet/NuGet.Config"
+          "/home/brunodias/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -122,21 +122,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Tests/PaymentContext.Tests.csproj": {
+    "/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Tests/PaymentContext.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Tests/PaymentContext.Tests.csproj",
+        "projectUniqueName": "/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Tests/PaymentContext.Tests.csproj",
         "projectName": "PaymentContext.Tests",
-        "projectPath": "/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Tests/PaymentContext.Tests.csproj",
-        "packagesPath": "/Users/brunodias/.nuget/packages/",
-        "outputPath": "/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Tests/obj/",
+        "projectPath": "/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Tests/PaymentContext.Tests.csproj",
+        "packagesPath": "/home/brunodias/.nuget/packages/",
+        "outputPath": "/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/brunodias/.nuget/NuGet/NuGet.Config"
+          "/home/brunodias/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -148,11 +148,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/PaymentContext.Domain.csproj": {
-                "projectPath": "/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/PaymentContext.Domain.csproj"
+              "/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/PaymentContext.Domain.csproj": {
+                "projectPath": "/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Domain/PaymentContext.Domain.csproj"
               },
-              "/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Shared/PaymentContext.Shared.csproj": {
-                "projectPath": "/Users/brunodias/Documents/Programação/Projetos dotnet/Curso Balta.io/modulo 5 - construindo modelos ricos/curso_balta_modelando_dominios_ricos/PaymentContext.Shared/PaymentContext.Shared.csproj"
+              "/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Shared/PaymentContext.Shared.csproj": {
+                "projectPath": "/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Shared/PaymentContext.Shared.csproj"
               }
             }
           }
@@ -204,7 +204,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }
