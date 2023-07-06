@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vUpJ/R50nxL+upqpIISGzBYoeOPE99ioqAJu5NbzEKw2QT4twrem9Cr6JUpwsBQzYqr2CfrcKultpjDkxFjZ5g==",
+  "dgSpecHash": "5WYUN5dOPHNhjwcmH1eymVa3VFV1rb2trDlgoJh2q+0ttDOA/WM1iBGaoKFS8kzqCJvYiCNhjB8+Ovmviaqmpw==",
   "success": true,
-  "projectFilePath": "/home/brunodias/Documentos/Programacao/C#/Balta.io/curso_balta_modelando_dominios_ricos/PaymentContext.Shared/PaymentContext.Shared.csproj",
+  "projectFilePath": "/home/brunodias/Documentos/Programação/C#/curso balta.io/Moodelando Entidades Ricas/curso_balta_modelando_dominios_ricos/PaymentContext.Shared/PaymentContext.Shared.csproj",
   "expectedPackageFiles": [
     "/home/brunodias/.nuget/packages/flunt/2.0.5/flunt.2.0.5.nupkg.sha512"
   ],

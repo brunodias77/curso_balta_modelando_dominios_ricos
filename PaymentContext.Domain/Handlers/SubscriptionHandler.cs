@@ -1,19 +1,25 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using Flunt.Notifications;
+using Flunt.Validations;
+using PaymentContext.Domain.Commands;
+using PaymentContext.Domain.Entities;
+using PaymentContext.Domain.Enums;
+using PaymentContext.Domain.Repositories;
+using PaymentContext.Domain.Services;
+using PaymentContext.Domain.ValueObjects;
+using PaymentContext.Shared.Commands;
+using PaymentContext.Shared.Handlers;
 
 namespace PaymentContext.Domain.Handlers
 {
     public class SubscriptionHandler :
-        Notifiable,
+        Notifiable<Notification>,
         IHandler<CreateBoletoSubscriptionCommand>,
         IHandler<CreatePayPalSubscriptionCommand>
     {
         private readonly IStudentRepository _repository;
-        private readonly IEmailService _emailService;
+        private readonly IEmailServices _emailService;
 
-        public SubscriptionHandler(IStudentRepository repository, IEmailService emailService)
+        public SubscriptionHandler(IStudentRepository repository, IEmailServices emailService)
         {
             _repository = repository;
             _emailService = emailService;
@@ -67,7 +73,7 @@ namespace PaymentContext.Domain.Handlers
             AddNotifications(name, document, email, address, student, subscription, payment);
 
             // Checar as notificações
-            if (Invalid)
+            if (!IsValid)
                 return new CommandResult(false, "Não foi possível realizar sua assinatura");
 
             // Salvar as Informações
@@ -128,5 +134,6 @@ namespace PaymentContext.Domain.Handlers
             // Retornar informações
             return new CommandResult(true, "Assinatura realizada com sucesso");
         }
+
     }
 }
